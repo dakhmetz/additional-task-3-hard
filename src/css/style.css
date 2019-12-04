@@ -194,5 +194,5 @@ li {
 }
 
 .section__block-price2 {
-  
+  overflow: auto;
 }
